@@ -1,0 +1,7 @@
+pymongo
+requests
+dnspython
+numpy
+gridfs
+PyQt5
+cv2
